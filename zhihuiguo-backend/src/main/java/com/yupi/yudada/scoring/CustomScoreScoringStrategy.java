@@ -1,17 +1,17 @@
-package com.yupi.yudada.scoring;
+package com.yupi.zhihuiguo.scoring;
 
 import cn.hutool.json.JSONUtil;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.model.dto.question.QuestionContentDTO;
-import com.yupi.yudada.model.entity.App;
-import com.yupi.yudada.model.entity.Question;
-import com.yupi.yudada.model.entity.ScoringResult;
-import com.yupi.yudada.model.entity.UserAnswer;
-import com.yupi.yudada.model.vo.QuestionVO;
-import com.yupi.yudada.service.QuestionService;
-import com.yupi.yudada.service.ScoringResultService;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.model.dto.question.QuestionContentDTO;
+import com.yupi.zhihuiguo.model.entity.App;
+import com.yupi.zhihuiguo.model.entity.Question;
+import com.yupi.zhihuiguo.model.entity.ScoringResult;
+import com.yupi.zhihuiguo.model.entity.UserAnswer;
+import com.yupi.zhihuiguo.model.vo.QuestionVO;
+import com.yupi.zhihuiguo.service.QuestionService;
+import com.yupi.zhihuiguo.service.ScoringResultService;
 
 import javax.annotation.Resource;
 import java.util.List;

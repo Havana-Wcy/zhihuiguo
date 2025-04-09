@@ -1,4 +1,4 @@
-package com.yupi.yudada;
+package com.yupi.zhihuiguo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

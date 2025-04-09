@@ -1,6 +1,6 @@
-package com.yupi.yudada.model.dto.post;
+package com.yupi.zhihuiguo.model.dto.post;
 
-import com.yupi.yudada.common.PageRequest;
+import com.yupi.zhihuiguo.common.PageRequest;
 import java.io.Serializable;
 import java.util.List;
 import lombok.Data;

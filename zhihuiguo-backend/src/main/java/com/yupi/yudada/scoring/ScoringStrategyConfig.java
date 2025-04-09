@@ -1,4 +1,4 @@
-package com.yupi.yudada.scoring;
+package com.yupi.zhihuiguo.scoring;
 
 import org.springframework.stereotype.Component;
 

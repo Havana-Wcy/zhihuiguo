@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.post;
+package com.yupi.zhihuiguo.model.dto.post;
 
 import java.io.Serializable;
 import java.util.List;

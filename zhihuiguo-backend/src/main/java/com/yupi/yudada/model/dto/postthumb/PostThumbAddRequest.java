@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.postthumb;
+package com.yupi.zhihuiguo.model.dto.postthumb;
 
 import java.io.Serializable;
 import lombok.Data;

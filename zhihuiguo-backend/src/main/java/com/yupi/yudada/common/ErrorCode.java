@@ -1,4 +1,4 @@
-package com.yupi.yudada.common;
+package com.yupi.zhihuiguo.common;
 
 /**
  * 自定义错误码

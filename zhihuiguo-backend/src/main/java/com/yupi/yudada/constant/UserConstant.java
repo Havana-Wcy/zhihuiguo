@@ -1,4 +1,4 @@
-package com.yupi.yudada.constant;
+package com.yupi.zhihuiguo.constant;
 
 /**
  * 用户常量

@@ -1,6 +1,6 @@
-package com.yupi.yudada.mapper;
+package com.yupi.zhihuiguo.mapper;
 
-import com.yupi.yudada.model.entity.PostThumb;
+import com.yupi.zhihuiguo.model.entity.PostThumb;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

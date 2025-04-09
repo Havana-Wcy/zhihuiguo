@@ -1,6 +1,6 @@
-package com.yupi.yudada.model.dto.user;
+package com.yupi.zhihuiguo.model.dto.user;
 
-import com.yupi.yudada.common.PageRequest;
+import com.yupi.zhihuiguo.common.PageRequest;
 import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;

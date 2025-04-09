@@ -1,9 +1,9 @@
-package com.yupi.yudada.model.vo;
+package com.yupi.zhihuiguo.model.vo;
 
 import cn.hutool.json.JSONUtil;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
-import com.yupi.yudada.model.entity.App;
+import com.yupi.zhihuiguo.model.entity.App;
 import lombok.Data;
 import org.springframework.beans.BeanUtils;
 

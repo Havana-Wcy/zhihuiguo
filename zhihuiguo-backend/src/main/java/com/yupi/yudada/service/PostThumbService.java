@@ -1,8 +1,8 @@
-package com.yupi.yudada.service;
+package com.yupi.zhihuiguo.service;
 
-import com.yupi.yudada.model.entity.PostThumb;
+import com.yupi.zhihuiguo.model.entity.PostThumb;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.yupi.yudada.model.entity.User;
+import com.yupi.zhihuiguo.model.entity.User;
 
 /**
  * 帖子点赞服务

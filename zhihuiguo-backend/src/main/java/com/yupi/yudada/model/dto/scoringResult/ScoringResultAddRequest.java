@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.scoringResult;
+package com.yupi.zhihuiguo.model.dto.scoringResult;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

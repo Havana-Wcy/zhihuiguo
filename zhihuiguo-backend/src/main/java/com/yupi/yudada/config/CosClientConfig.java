@@ -1,4 +1,4 @@
-package com.yupi.yudada.config;
+package com.yupi.zhihuiguo.config;
 
 import com.qcloud.cos.COSClient;
 import com.qcloud.cos.ClientConfig;

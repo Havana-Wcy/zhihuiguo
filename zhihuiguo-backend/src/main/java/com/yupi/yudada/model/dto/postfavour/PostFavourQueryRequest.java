@@ -1,7 +1,7 @@
-package com.yupi.yudada.model.dto.postfavour;
+package com.yupi.zhihuiguo.model.dto.postfavour;
 
-import com.yupi.yudada.common.PageRequest;
-import com.yupi.yudada.model.dto.post.PostQueryRequest;
+import com.yupi.zhihuiguo.common.PageRequest;
+import com.yupi.zhihuiguo.model.dto.post.PostQueryRequest;
 import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;

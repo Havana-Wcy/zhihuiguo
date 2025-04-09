@@ -1,4 +1,4 @@
-package com.yupi.yudada.utils;
+package com.yupi.zhihuiguo.utils;
 
 import java.net.InetAddress;
 import javax.servlet.http.HttpServletRequest;

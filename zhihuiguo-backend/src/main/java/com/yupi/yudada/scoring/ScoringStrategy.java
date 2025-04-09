@@ -1,7 +1,7 @@
-package com.yupi.yudada.scoring;
+package com.yupi.zhihuiguo.scoring;
 
-import com.yupi.yudada.model.entity.App;
-import com.yupi.yudada.model.entity.UserAnswer;
+import com.yupi.zhihuiguo.model.entity.App;
+import com.yupi.zhihuiguo.model.entity.UserAnswer;
 
 import java.util.List;
 

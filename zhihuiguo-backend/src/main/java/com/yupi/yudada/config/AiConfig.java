@@ -1,4 +1,4 @@
-package com.yupi.yudada.config;
+package com.yupi.zhihuiguo.config;
 
 import com.zhipu.oapi.ClientV4;
 import lombok.Data;

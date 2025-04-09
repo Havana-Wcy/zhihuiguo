@@ -1,4 +1,4 @@
-package com.yupi.yudada.common;
+package com.yupi.zhihuiguo.common;
 
 import java.io.Serializable;
 import lombok.Data;

@@ -1,8 +1,8 @@
-package com.yupi.yudada.model.dto.question;
+package com.yupi.zhihuiguo.model.dto.question;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
-import com.yupi.yudada.common.PageRequest;
+import com.yupi.zhihuiguo.common.PageRequest;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

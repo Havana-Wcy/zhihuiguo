@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.user;
+package com.yupi.zhihuiguo.model.dto.user;
 
 import java.io.Serializable;
 import lombok.Data;

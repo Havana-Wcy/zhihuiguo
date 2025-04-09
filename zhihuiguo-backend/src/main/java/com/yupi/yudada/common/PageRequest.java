@@ -1,6 +1,6 @@
-package com.yupi.yudada.common;
+package com.yupi.zhihuiguo.common;
 
-import com.yupi.yudada.constant.CommonConstant;
+import com.yupi.zhihuiguo.constant.CommonConstant;
 import lombok.Data;
 
 /**

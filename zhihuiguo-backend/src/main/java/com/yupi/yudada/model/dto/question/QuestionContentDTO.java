@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.question;
+package com.yupi.zhihuiguo.model.dto.question;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

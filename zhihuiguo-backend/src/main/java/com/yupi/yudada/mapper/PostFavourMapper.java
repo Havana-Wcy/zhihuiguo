@@ -1,12 +1,12 @@
-package com.yupi.yudada.mapper;
+package com.yupi.zhihuiguo.mapper;
 
 import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.core.toolkit.Constants;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.yupi.yudada.model.entity.Post;
-import com.yupi.yudada.model.entity.PostFavour;
+import com.yupi.zhihuiguo.model.entity.Post;
+import com.yupi.zhihuiguo.model.entity.PostFavour;
 import org.apache.ibatis.annotations.Param;
 
 /**

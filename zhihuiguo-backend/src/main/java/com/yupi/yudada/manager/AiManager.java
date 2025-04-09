@@ -1,7 +1,7 @@
-package com.yupi.yudada.manager;
+package com.yupi.zhihuiguo.manager;
 
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.exception.BusinessException;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.exception.BusinessException;
 import com.zhipu.oapi.ClientV4;
 import com.zhipu.oapi.Constants;
 import com.zhipu.oapi.service.v4.model.ChatCompletionRequest;

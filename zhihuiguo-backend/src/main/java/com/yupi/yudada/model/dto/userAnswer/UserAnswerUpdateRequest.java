@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.userAnswer;
+package com.yupi.zhihuiguo.model.dto.userAnswer;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.question;
+package com.yupi.zhihuiguo.model.dto.question;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

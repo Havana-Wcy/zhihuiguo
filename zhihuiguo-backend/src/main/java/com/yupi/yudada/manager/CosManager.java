@@ -1,9 +1,9 @@
-package com.yupi.yudada.manager;
+package com.yupi.zhihuiguo.manager;
 
 import com.qcloud.cos.COSClient;
 import com.qcloud.cos.model.PutObjectRequest;
 import com.qcloud.cos.model.PutObjectResult;
-import com.yupi.yudada.config.CosClientConfig;
+import com.yupi.zhihuiguo.config.CosClientConfig;
 import java.io.File;
 import javax.annotation.Resource;
 import org.springframework.stereotype.Component;

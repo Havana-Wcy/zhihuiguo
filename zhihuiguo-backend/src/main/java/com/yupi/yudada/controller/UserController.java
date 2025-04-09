@@ -1,24 +1,24 @@
-package com.yupi.yudada.controller;
+package com.yupi.zhihuiguo.controller;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.yupi.yudada.annotation.AuthCheck;
-import com.yupi.yudada.common.BaseResponse;
-import com.yupi.yudada.common.DeleteRequest;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.common.ResultUtils;
-import com.yupi.yudada.constant.UserConstant;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.exception.ThrowUtils;
-import com.yupi.yudada.model.dto.user.UserAddRequest;
-import com.yupi.yudada.model.dto.user.UserLoginRequest;
-import com.yupi.yudada.model.dto.user.UserQueryRequest;
-import com.yupi.yudada.model.dto.user.UserRegisterRequest;
-import com.yupi.yudada.model.dto.user.UserUpdateMyRequest;
-import com.yupi.yudada.model.dto.user.UserUpdateRequest;
-import com.yupi.yudada.model.entity.User;
-import com.yupi.yudada.model.vo.LoginUserVO;
-import com.yupi.yudada.model.vo.UserVO;
-import com.yupi.yudada.service.UserService;
+import com.yupi.zhihuiguo.annotation.AuthCheck;
+import com.yupi.zhihuiguo.common.BaseResponse;
+import com.yupi.zhihuiguo.common.DeleteRequest;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.common.ResultUtils;
+import com.yupi.zhihuiguo.constant.UserConstant;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.exception.ThrowUtils;
+import com.yupi.zhihuiguo.model.dto.user.UserAddRequest;
+import com.yupi.zhihuiguo.model.dto.user.UserLoginRequest;
+import com.yupi.zhihuiguo.model.dto.user.UserQueryRequest;
+import com.yupi.zhihuiguo.model.dto.user.UserRegisterRequest;
+import com.yupi.zhihuiguo.model.dto.user.UserUpdateMyRequest;
+import com.yupi.zhihuiguo.model.dto.user.UserUpdateRequest;
+import com.yupi.zhihuiguo.model.entity.User;
+import com.yupi.zhihuiguo.model.vo.LoginUserVO;
+import com.yupi.zhihuiguo.model.vo.UserVO;
+import com.yupi.zhihuiguo.service.UserService;
 
 import java.util.List;
 import javax.annotation.Resource;
@@ -36,7 +36,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import static com.yupi.yudada.service.impl.UserServiceImpl.SALT;
+import static com.yupi.zhihuiguo.service.impl.UserServiceImpl.SALT;
 
 /**
  * 用户接口

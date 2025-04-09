@@ -1,6 +1,6 @@
-package com.yupi.yudada.model.dto.app;
+package com.yupi.zhihuiguo.model.dto.app;
 
-import com.yupi.yudada.common.PageRequest;
+import com.yupi.zhihuiguo.common.PageRequest;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

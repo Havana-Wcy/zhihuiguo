@@ -1,8 +1,8 @@
-package com.yupi.yudada.exception;
+package com.yupi.zhihuiguo.exception;
 
-import com.yupi.yudada.common.BaseResponse;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.common.ResultUtils;
+import com.yupi.zhihuiguo.common.BaseResponse;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.common.ResultUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

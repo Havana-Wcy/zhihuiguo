@@ -1,13 +1,13 @@
-package com.yupi.yudada.controller;
+package com.yupi.zhihuiguo.controller;
 
-import com.yupi.yudada.common.BaseResponse;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.common.ResultUtils;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.model.dto.postthumb.PostThumbAddRequest;
-import com.yupi.yudada.model.entity.User;
-import com.yupi.yudada.service.PostThumbService;
-import com.yupi.yudada.service.UserService;
+import com.yupi.zhihuiguo.common.BaseResponse;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.common.ResultUtils;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.model.dto.postthumb.PostThumbAddRequest;
+import com.yupi.zhihuiguo.model.entity.User;
+import com.yupi.zhihuiguo.service.PostThumbService;
+import com.yupi.zhihuiguo.service.UserService;
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;

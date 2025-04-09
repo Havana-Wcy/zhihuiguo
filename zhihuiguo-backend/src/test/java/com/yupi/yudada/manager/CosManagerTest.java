@@ -1,4 +1,4 @@
-package com.yupi.yudada.manager;
+package com.yupi.zhihuiguo.manager;
 
 import javax.annotation.Resource;
 import org.junit.jupiter.api.Test;

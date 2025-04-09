@@ -1,11 +1,11 @@
-package com.yupi.yudada.scoring;
+package com.yupi.zhihuiguo.scoring;
 
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.model.entity.App;
-import com.yupi.yudada.model.entity.UserAnswer;
-import com.yupi.yudada.model.enums.AppScoringStrategyEnum;
-import com.yupi.yudada.model.enums.AppTypeEnum;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.model.entity.App;
+import com.yupi.zhihuiguo.model.entity.UserAnswer;
+import com.yupi.zhihuiguo.model.enums.AppScoringStrategyEnum;
+import com.yupi.zhihuiguo.model.enums.AppTypeEnum;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

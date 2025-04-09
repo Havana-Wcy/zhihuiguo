@@ -1,7 +1,7 @@
-package com.yupi.yudada.model.vo;
+package com.yupi.zhihuiguo.model.vo;
 
 import cn.hutool.json.JSONUtil;
-import com.yupi.yudada.model.entity.Post;
+import com.yupi.zhihuiguo.model.entity.Post;
 import java.io.Serializable;
 import java.util.Date;
 import java.util.List;

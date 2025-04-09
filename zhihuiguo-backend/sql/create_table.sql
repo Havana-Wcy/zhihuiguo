@@ -1,12 +1,8 @@
-# 数据库初始化
-# @author <a href="https://github.com/liyupi">程序员鱼皮</a>
-# @from <a href="https://yupi.icu">编程导航知识星球</a>
-
 -- 创建库
-create database if not exists yudada;
+create database if not exists zhihuiguo;
 
 -- 切换库
-use yudada;
+use zhihuiguo;
 
 -- 用户表
 create table if not exists user

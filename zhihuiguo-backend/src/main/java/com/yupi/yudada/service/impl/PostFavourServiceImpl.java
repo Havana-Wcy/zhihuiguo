@@ -1,18 +1,18 @@
-package com.yupi.yudada.service.impl;
+package com.yupi.zhihuiguo.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.mapper.PostFavourMapper;
-import com.yupi.yudada.model.entity.Post;
-import com.yupi.yudada.model.entity.PostFavour;
-import com.yupi.yudada.model.entity.User;
-import com.yupi.yudada.service.PostFavourService;
-import com.yupi.yudada.service.PostService;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.mapper.PostFavourMapper;
+import com.yupi.zhihuiguo.model.entity.Post;
+import com.yupi.zhihuiguo.model.entity.PostFavour;
+import com.yupi.zhihuiguo.model.entity.User;
+import com.yupi.zhihuiguo.service.PostFavourService;
+import com.yupi.zhihuiguo.service.PostService;
 import javax.annotation.Resource;
 import org.springframework.aop.framework.AopContext;
 import org.springframework.stereotype.Service;

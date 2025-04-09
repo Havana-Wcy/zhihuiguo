@@ -1,16 +1,16 @@
-package com.yupi.yudada.controller;
+package com.yupi.zhihuiguo.controller;
 
 import cn.hutool.core.io.FileUtil;
-import com.yupi.yudada.common.BaseResponse;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.common.ResultUtils;
-import com.yupi.yudada.constant.FileConstant;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.manager.CosManager;
-import com.yupi.yudada.model.dto.file.UploadFileRequest;
-import com.yupi.yudada.model.entity.User;
-import com.yupi.yudada.model.enums.FileUploadBizEnum;
-import com.yupi.yudada.service.UserService;
+import com.yupi.zhihuiguo.common.BaseResponse;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.common.ResultUtils;
+import com.yupi.zhihuiguo.constant.FileConstant;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.manager.CosManager;
+import com.yupi.zhihuiguo.model.dto.file.UploadFileRequest;
+import com.yupi.zhihuiguo.model.entity.User;
+import com.yupi.zhihuiguo.model.enums.FileUploadBizEnum;
+import com.yupi.zhihuiguo.service.UserService;
 import java.io.File;
 import java.util.Arrays;
 import javax.annotation.Resource;

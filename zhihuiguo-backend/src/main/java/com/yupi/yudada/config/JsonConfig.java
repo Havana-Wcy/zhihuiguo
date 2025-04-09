@@ -1,4 +1,4 @@
-package com.yupi.yudada.config;
+package com.yupi.zhihuiguo.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.module.SimpleModule;

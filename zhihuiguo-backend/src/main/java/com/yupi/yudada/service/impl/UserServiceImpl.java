@@ -1,21 +1,21 @@
-package com.yupi.yudada.service.impl;
+package com.yupi.zhihuiguo.service.impl;
 
-import static com.yupi.yudada.constant.UserConstant.USER_LOGIN_STATE;
+import static com.yupi.zhihuiguo.constant.UserConstant.USER_LOGIN_STATE;
 
 import cn.hutool.core.collection.CollUtil;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.constant.CommonConstant;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.mapper.UserMapper;
-import com.yupi.yudada.model.dto.user.UserQueryRequest;
-import com.yupi.yudada.model.entity.User;
-import com.yupi.yudada.model.enums.UserRoleEnum;
-import com.yupi.yudada.model.vo.LoginUserVO;
-import com.yupi.yudada.model.vo.UserVO;
-import com.yupi.yudada.service.UserService;
-import com.yupi.yudada.utils.SqlUtils;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.constant.CommonConstant;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.mapper.UserMapper;
+import com.yupi.zhihuiguo.model.dto.user.UserQueryRequest;
+import com.yupi.zhihuiguo.model.entity.User;
+import com.yupi.zhihuiguo.model.enums.UserRoleEnum;
+import com.yupi.zhihuiguo.model.vo.LoginUserVO;
+import com.yupi.zhihuiguo.model.vo.UserVO;
+import com.yupi.zhihuiguo.service.UserService;
+import com.yupi.zhihuiguo.utils.SqlUtils;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;

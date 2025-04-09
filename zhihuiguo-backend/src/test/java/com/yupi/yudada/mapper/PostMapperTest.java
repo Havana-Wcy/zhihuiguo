@@ -1,6 +1,6 @@
-package com.yupi.yudada.mapper;
+package com.yupi.zhihuiguo.mapper;
 
-import com.yupi.yudada.model.entity.Post;
+import com.yupi.zhihuiguo.model.entity.Post;
 import java.util.Date;
 import java.util.List;
 import javax.annotation.Resource;

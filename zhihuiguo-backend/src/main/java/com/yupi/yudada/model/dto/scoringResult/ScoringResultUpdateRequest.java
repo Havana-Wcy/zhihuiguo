@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.scoringResult;
+package com.yupi.zhihuiguo.model.dto.scoringResult;
 
 import lombok.Data;
 

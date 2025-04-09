@@ -1,11 +1,11 @@
-package com.yupi.yudada.aop;
+package com.yupi.zhihuiguo.aop;
 
-import com.yupi.yudada.annotation.AuthCheck;
-import com.yupi.yudada.common.ErrorCode;
-import com.yupi.yudada.exception.BusinessException;
-import com.yupi.yudada.model.entity.User;
-import com.yupi.yudada.model.enums.UserRoleEnum;
-import com.yupi.yudada.service.UserService;
+import com.yupi.zhihuiguo.annotation.AuthCheck;
+import com.yupi.zhihuiguo.common.ErrorCode;
+import com.yupi.zhihuiguo.exception.BusinessException;
+import com.yupi.zhihuiguo.model.entity.User;
+import com.yupi.zhihuiguo.model.enums.UserRoleEnum;
+import com.yupi.zhihuiguo.service.UserService;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;

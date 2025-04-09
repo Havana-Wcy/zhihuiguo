@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.vo;
+package com.yupi.zhihuiguo.model.vo;
 
 import java.io.Serializable;
 import java.util.Date;

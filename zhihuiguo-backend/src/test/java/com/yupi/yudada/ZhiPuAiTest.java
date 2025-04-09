@@ -1,4 +1,4 @@
-package com.yupi.yudada;
+package com.yupi.zhihuiguo;
 
 import com.zhipu.oapi.ClientV4;
 import com.zhipu.oapi.Constants;

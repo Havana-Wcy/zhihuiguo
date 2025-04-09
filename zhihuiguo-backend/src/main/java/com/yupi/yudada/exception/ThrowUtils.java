@@ -1,6 +1,6 @@
-package com.yupi.yudada.exception;
+package com.yupi.zhihuiguo.exception;
 
-import com.yupi.yudada.common.ErrorCode;
+import com.yupi.zhihuiguo.common.ErrorCode;
 
 /**
  * 抛异常工具类

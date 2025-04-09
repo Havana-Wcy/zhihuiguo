@@ -1,4 +1,4 @@
-package com.yupi.yudada.model.dto.app;
+package com.yupi.zhihuiguo.model.dto.app;
 
 import lombok.Data;
 

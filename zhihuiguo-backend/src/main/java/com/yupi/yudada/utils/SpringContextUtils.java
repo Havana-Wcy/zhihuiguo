@@ -1,4 +1,4 @@
-package com.yupi.yudada.utils;
+package com.yupi.zhihuiguo.utils;
 
 import org.jetbrains.annotations.NotNull;
 import org.springframework.beans.BeansException;
