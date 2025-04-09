@@ -70,7 +70,7 @@ knife4j:
       default:
         api-rule: package
         api-rule-resources:
-          - com.yupi.zhihuiguo.controller
+          - com.wcy.zhihuiguo.controller
 # AI 配置
 ai:
   apiKey: 改为自己的 apiKey

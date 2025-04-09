@@ -2,9 +2,9 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.yupi.zhihuiguo.mapper.UserAnswerMapper">
+<mapper namespace="com.wcy.zhihuiguo.mapper.UserAnswerMapper">
 
-    <resultMap id="BaseResultMap" type="com.yupi.zhihuiguo.model.entity.UserAnswer">
+    <resultMap id="BaseResultMap" type="com.wcy.zhihuiguo.model.entity.UserAnswer">
             <id property="id" column="id" jdbcType="BIGINT"/>
             <result property="appId" column="appId" jdbcType="BIGINT"/>
             <result property="appType" column="appType" jdbcType="TINYINT"/>
