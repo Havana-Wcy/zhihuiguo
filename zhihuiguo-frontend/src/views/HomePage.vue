@@ -89,8 +89,8 @@ watchEffect(() => {
 }
 
 .searchBar {
-  text-align: center;
   margin-bottom: 28px;
+  text-align: center;
 }
 
 .list-demo-action-layout .image-area {
